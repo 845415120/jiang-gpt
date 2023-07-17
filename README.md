@@ -4,7 +4,7 @@
 
 更多功能：[chatgpt-web-plus](https://github.com/Chanzhaoyu/chatgpt-web-plus)
 
-![cover]([./docs/c1.png](https://cdn.staticaly.com/gh/845415120/picx-images-hosting@master/20230717/26e1adfe2bbcd5bffcde5c78a03cc96.3zng07aek480.png))
+![cover](https://cdn.staticaly.com/gh/845415120/picx-images-hosting@master/20230717/26e1adfe2bbcd5bffcde5c78a03cc96.3zng07aek480.png)
 ![cover2](./docs/c2.png)
 
 - [ChatGPT Web](#chatgpt-web)
